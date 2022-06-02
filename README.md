@@ -14,4 +14,4 @@ One link did not have the proper class, but was fixed and tested to ensure it is
 Collaborators
 Amanda Perry https://github.com/bekind-rewind
 Boyd Roberts https://github.com/coleyrockin
-Khaylla Hite
+Khaylla Hite https://github.com/kaywhyLA
